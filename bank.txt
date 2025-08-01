@@ -1,0 +1,1 @@
+{"Name": "Ravi", "Age": 11, "Class": 8, "Subjects": ["English", "Maths", "Hindi", "Grammar", "Moral", "Computer", "GK", "SST", "Science"], "Marks": [77, 3, 34, 80, 28, 9, 48, 16, 33]} "Grade A": true}
